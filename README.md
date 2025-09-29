@@ -5,6 +5,7 @@ Write a program in C to check the given number is even number or odd number?
 
 void main()
 {
+
     int num;
     
     printf("enter value:");
